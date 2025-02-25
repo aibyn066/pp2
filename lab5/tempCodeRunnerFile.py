@@ -1,0 +1,1 @@
+x = re.findall(r'a[b]*' , txt)
