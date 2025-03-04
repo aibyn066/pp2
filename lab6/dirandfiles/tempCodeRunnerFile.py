@@ -1,0 +1,1 @@
+        file.write(f"Этот файл называется {letter}.txt\n")

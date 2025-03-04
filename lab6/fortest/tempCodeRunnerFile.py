@@ -1,0 +1,1 @@
+"/Users/ajbynkumargali/Desktop/projects_pp2/lab6"
